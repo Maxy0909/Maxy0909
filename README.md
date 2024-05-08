@@ -22,3 +22,9 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
 ![GRAPH](https://github.com/Maxy0909/Maxy0909/assets/158345937/c42e6b99-4ab1-4568-bcea-619935d5a355)
+
+$c = \sqrt{a^2 + b^2}$
+
+$n \sum_{n=0}^{n}ar^i$
+
+$n \sum_{n=1}^{n}i = 1+2+3+4...n = {n(n+1)\over2}$
