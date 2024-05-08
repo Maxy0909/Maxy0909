@@ -21,3 +21,4 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
+![GRAPH](https://github.com/Maxy0909/Maxy0909/assets/158345937/c42e6b99-4ab1-4568-bcea-619935d5a355)
