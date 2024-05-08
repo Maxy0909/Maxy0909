@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxy0909&show_icons=true&locale=en" alt="maxy0909" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxy0909&" alt="maxy0909" /></p>
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
